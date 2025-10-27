@@ -20,14 +20,14 @@ DrinkUp은 사용자가 하루 물 섭취량을 기록하고 목표 달성 여�
 - macOS 13 이상
 
 ## Swift 프로젝트 구조
-DrinkUp/                  <- Xcode 프로젝트 최상위 폴더
-  DrinkUp.xcodeproj      <- Xcode 프로젝트 파일
-  DrinkUp/               <- 실제 코드 파일 폴더
-    ContentView.swift
-    SettingView.swift
-    WaterDataManager.swift
-    DailyWaterData.swift
-    WaterRecord.swift
-  Assets.xcassets         <- 앱 아이콘, 이미지 등
-  Preview Content/        <- SwiftUI 미리보기 관련
-  README.md               <- GitHub 제출용 README
+- DrinkUp/                  <- Xcode 프로젝트 최상위 폴더
+  - DrinkUp.xcodeproj      <- Xcode 프로젝트 파일
+  - DrinkUp/               <- 실제 코드 파일 폴더
+    - ContentView.swift
+    - SettingView.swift
+    - WaterDataManager.swift
+    - DailyWaterData.swift
+    - WaterRecord.swift
+  - Assets.xcassets         <- 앱 아이콘, 이미지 등
+  - Preview Content/        <- SwiftUI 미리보기 관련
+  - README.md               <- GitHub 제출용 README
